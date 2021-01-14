@@ -1,3 +1,3 @@
-# cs1730-syscall
+# syscall
 
 Implements terminal commands using system calls.
